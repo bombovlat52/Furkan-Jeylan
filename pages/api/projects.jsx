@@ -12,7 +12,6 @@ export default async (req, res) => {
       image: "https://ugc.production.linktr.ee/6RJk9s2pQZ2yAdcxw3Ir_TXX2dLlNmwM2OFdf?io=true&size=avatar-v3_0",
       name: "Social Accounts",
       description: "I am a professional editor and intermediate software developer. I have been professionally interested in community management and development for 5 years, I have high level knowledge and experience in areas such as community management and social media management. I post videos about discord on my youtube channel.",
-      link: "https://linktr.ee/umutxyp",
     }
   ];
   res.status(200).json(data);
