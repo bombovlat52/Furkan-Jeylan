@@ -1,6 +1,6 @@
 
 const items = [
-        { icon: 'fab fa-instagram', link: 'https://instagram.com/furkanjeyylan' },
+        { icon: 'fab fa-instagram', link: 'https://www.instagram.com/furkanjeyylan?igsh=bGxodHc2dnl2a2hk&utm_source=qr' },
     { icon: 'fab fa-github', link: 'https://github.com/bombovlat52' },
   ]
 
